@@ -1,8 +1,8 @@
 # How to deploy a react application created on vitejs
 
-- Create a repository on github
-- Add the called property base to the file vite.config and asign it your repository name. 
-
+- Create a repository
+- Add the called property base to the file vite.config and assign it your repository name.
+ 
 ``` javascript
   export default defineConfig({
   base: '/your-repository-name/' //Add base property here,

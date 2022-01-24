@@ -10,7 +10,7 @@
 })
 
 ```
-- Add change to the master or main branch
+- Add the changes to the master or main branch
 - Execute **npm run build**
 - Next step
 ``` console

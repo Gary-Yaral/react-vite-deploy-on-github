@@ -4,6 +4,9 @@
 - Add the base property to the vite configurations and asign it your repository name 
 
 ``` javascript
-  base : /my-repository/
+  export default defineConfig({
+  base: '/your-repository-name/' //Here add base property,
+  plugins: [react()]
+})
 
 ```
